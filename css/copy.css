@@ -1,13 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap');
+
 body {
     font-family: "Open Sans", sans-serif;
 }
 
 h1, h2, h3 {
-    font-family: "Lobster", cursive;
+    font-family: 'Playfair Display', serif;
 }
 
 h2 {
-    color: #3046C5;
+    color: #2a6f97;
 }
 
 header h2 {
@@ -32,7 +34,7 @@ header h2 {
 }
 
 .navbar {
-    background-color: #901CAD;
+    background-color: #2a6f97;
 }
 
 .jumbotron {
