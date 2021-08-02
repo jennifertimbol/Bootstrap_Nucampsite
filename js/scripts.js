@@ -14,3 +14,14 @@ $(function(){
         }
     });
 });
+
+$(function(){
+    $('#reserveButton').click(function(){
+        $('#reserveModal').modal('show');
+        $('#reserveModal').modal('hide');
+    });
+    $('#loginButton').click(function(){
+        $('#loginModal').modal('show');
+        $('#loginModal').modal('hide');
+    })
+});
